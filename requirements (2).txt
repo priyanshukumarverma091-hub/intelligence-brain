@@ -1,0 +1,2 @@
+# No third-party dependencies required.
+# brain.py uses only the Python standard library (dataclasses, typing, re).
